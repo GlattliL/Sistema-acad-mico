@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1731071132071,
+      "tag": "0000_far_giant_man",
+      "breakpoints": true
+    }
+  ]
+}
